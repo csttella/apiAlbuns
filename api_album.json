@@ -1,6 +1,6 @@
 [
     {
-        "album_cover": "ultraviolence_cover.jpg",
+        "album_cover": "https://static.wikia.nocookie.net/lanadelrey/images/9/91/Ultraviolence.jpg/revision/latest/scale-to-width-down/1000?cb=20220324171633",
         "album_name": "Ultra Violence",
         "artist_name": "Lana Del Rey",
         "release_date": "2014-06-13",
@@ -8,7 +8,7 @@
         "number_plays": 1000000
     },
     {
-        "album_cover": "born_to_die_cover.jpg",
+        "album_cover": "https://upload.wikimedia.org/wikipedia/en/2/29/BornToDieAlbumCover.png",
         "album_name": "Born To Die",
         "artist_name": "Lana Del Rey",
         "release_date": "2012-01-27",
@@ -16,7 +16,7 @@
         "number_plays": 1200000
     },
     {
-        "album_cover": "honeymoon_cover.jpg",
+        "album_cover": "https://upload.wikimedia.org/wikipedia/pt/e/e1/Lana_Del_Rey_-_Honeymoon.jpg",
         "album_name": "Honeymoon",
         "artist_name": "Lana Del Rey",
         "release_date": "2015-09-18",
@@ -24,7 +24,7 @@
         "number_plays": 800000
     },
     {
-        "album_cover": "discovery_cover.jpg",
+        "album_cover": "https://www.proedsolutions.com/wp-content/themes/micron/images/placeholders/placeholder_large.jpg",
         "album_name": "Discovery",
         "artist_name": "Daft Punk",
         "release_date": "2001-03-12",
@@ -32,7 +32,7 @@
         "number_plays": 1500000
     },
     {
-        "album_cover": "alive_2007_cover.jpg",
+        "album_cover": "https://www.proedsolutions.com/wp-content/themes/micron/images/placeholders/placeholder_large.jpg",
         "album_name": "ALive 2007",
         "artist_name": "Daft Punk",
         "release_date": "2007-11-19",
@@ -40,7 +40,7 @@
         "number_plays": 900000
     },
     {
-        "album_cover": "random_access_memories_cover.jpg",
+        "album_cover": "https://www.proedsolutions.com/wp-content/themes/micron/images/placeholders/placeholder_large.jpg",
         "album_name": "Random Access Memories",
         "artist_name": "Daft Punk",
         "release_date": "2013-05-17",
@@ -48,7 +48,7 @@
         "number_plays": 1300000
     },
     {
-        "album_cover": "fine_line_cover.jpg",
+        "album_cover": "https://upload.wikimedia.org/wikipedia/pt/b/b1/Harry_Styles_-_Fine_Line.png",
         "album_name": "Fine Line",
         "artist_name": "Harry Styles",
         "release_date": "2019-12-13",
@@ -56,7 +56,7 @@
         "number_plays": 2000000
     },
     {
-        "album_cover": "2001_cover.jpg",
+        "album_cover": "https://www.proedsolutions.com/wp-content/themes/micron/images/placeholders/placeholder_large.jpg",
         "album_name": "2001",
         "artist_name": "Dr. Dre",
         "release_date": "1999-11-16",
@@ -64,7 +64,7 @@
         "number_plays": 1800000
     },
     {
-        "album_cover": "am_cover.jpg",
+        "album_cover": "https://upload.wikimedia.org/wikipedia/pt/9/96/Capa-AM_%28oficial%29.jpeg",
         "album_name": "AM",
         "artist_name": "Arctic Monkeys",
         "release_date": "2013-09-09",
@@ -72,7 +72,7 @@
         "number_plays": 1600000
     },
     {
-        "album_cover": "the_car_cover.jpg",
+        "album_cover": "https://upload.wikimedia.org/wikipedia/pt/5/5f/Arctic_Monkeys_The_Car_album.jpg",
         "album_name": "The Car",
         "artist_name": "Arctic Monkeys",
         "release_date": "2022-10-21",
@@ -80,7 +80,7 @@
         "number_plays": 500000
     },
     {
-        "album_cover": "favourite_worst_nightmare_cover.jpg",
+        "album_cover": "https://upload.wikimedia.org/wikipedia/pt/d/dc/Arctic_Monkeys_Favourite.jpg",
         "album_name": "Favourite Worst Nightmare",
         "artist_name": "Arctic Monkeys",
         "release_date": "2007-04-23",
@@ -88,7 +88,7 @@
         "number_plays": 900000
     },
     {
-        "album_cover": "astroworld_cover.jpg",
+        "album_cover": "https://www.proedsolutions.com/wp-content/themes/micron/images/placeholders/placeholder_large.jpg",
         "album_name": "Astroworld",
         "artist_name": "Travis Scott",
         "release_date": "2018-08-03",
@@ -96,7 +96,7 @@
         "number_plays": 2200000
     },
     {
-        "album_cover": "cybertapes_cover.jpg",
+        "album_cover": "https://www.proedsolutions.com/wp-content/themes/micron/images/placeholders/placeholder_large.jpg",
         "album_name": "Cybertapes",
         "artist_name": "Cyber",
         "release_date": "2020-11-20",
@@ -104,7 +104,7 @@
         "number_plays": 700000
     },
     {
-        "album_cover": "electra_heart_deluxe_cover.jpg",
+        "album_cover": "https://e-cdn-images.dzcdn.net/images/cover/9850d833c6f0f01135c27179516fdea9/264x264-000000-80-0-0.jpg",
         "album_name": "Electra Heart (Deluxe)",
         "artist_name": "Marina and the Diamonds",
         "release_date": "2012-04-27",
@@ -112,7 +112,7 @@
         "number_plays": 850000
     },
     {
-        "album_cover": "mm_food_cover.jpg",
+        "album_cover": "https://www.proedsolutions.com/wp-content/themes/micron/images/placeholders/placeholder_large.jpg",
         "album_name": "MM..FOOD",
         "artist_name": "MF DOOM",
         "release_date": "2004-11-16",
@@ -120,7 +120,7 @@
         "number_plays": 600000
     },
     {
-        "album_cover": "chosen_cover.jpg",
+        "album_cover": "https://www.proedsolutions.com/wp-content/themes/micron/images/placeholders/placeholder_large.jpg",
         "album_name": "Chosen",
         "artist_name": "Måneskin",
         "release_date": "2017-12-08",
@@ -128,7 +128,7 @@
         "number_plays": 300000
     },
     {
-        "album_cover": "club_future_nostalgia_cover.jpg",
+        "album_cover": "https://www.proedsolutions.com/wp-content/themes/micron/images/placeholders/placeholder_large.jpg",
         "album_name": "Club Future Nostalgia",
         "artist_name": "Dua Lipa",
         "release_date": "2020-08-28",
@@ -136,7 +136,7 @@
         "number_plays": 1100000
     },
     {
-        "album_cover": "wiped_out_cover.jpg",
+        "album_cover": "https://www.proedsolutions.com/wp-content/themes/micron/images/placeholders/placeholder_large.jpg",
         "album_name": "Wiped Out!",
         "artist_name": "The Neighbourhood",
         "release_date": "2015-10-30",
@@ -144,7 +144,7 @@
         "number_plays": 750000
     },
     {
-        "album_cover": "kid_krow_cover.jpg",
+        "album_cover": "https://www.proedsolutions.com/wp-content/themes/micron/images/placeholders/placeholder_large.jpg",
         "album_name": "Kid Krow",
         "artist_name": "Conan Gray",
         "release_date": "2020-03-20",
@@ -152,7 +152,7 @@
         "number_plays": 900000
     },
     {
-        "album_cover": "17_cover.jpg",
+        "album_cover": "https://www.proedsolutions.com/wp-content/themes/micron/images/placeholders/placeholder_large.jpg",
         "album_name": "17",
         "artist_name": "XXXTentacion",
         "release_date": "2017-08-25",
@@ -161,7 +161,7 @@
     },
 
     {
-        "album_cover": "question_mark_cover.jpg",
+        "album_cover": "https://www.proedsolutions.com/wp-content/themes/micron/images/placeholders/placeholder_large.jpg",
         "album_name": "?",
         "artist_name": "XXXTentacion",
         "release_date": "2018-03-16",
@@ -170,7 +170,7 @@
     },
     
     {
-        "album_cover": "the_bends_cover.jpg",
+        "album_cover": "https://www.proedsolutions.com/wp-content/themes/micron/images/placeholders/placeholder_large.jpg",
         "album_name": "The Bends",
         "artist_name": "Radiohead",
         "release_date": "1995-03-13",
