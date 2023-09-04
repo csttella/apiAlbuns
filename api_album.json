@@ -1,162 +1,181 @@
 [
     {
-        "album_cover": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/cool-album-cover-image-design-template-62fca565fdcbb25ced8e900c54d61835_screen.jpg?ts=1561530580",
-        "song_title": "Dance All Night",
-        "artist_name": "ElectroGroove",
-        "release_date": "2023-07-15",
+        "album_cover": "ultraviolence_cover.jpg",
+        "album_name": "Ultra Violence",
+        "artist_name": "Lana Del Rey",
+        "release_date": "2014-06-13",
+        "genre": "Indie Pop",
+        "number_plays": 1000000
+    },
+    {
+        "album_cover": "born_to_die_cover.jpg",
+        "album_name": "Born To Die",
+        "artist_name": "Lana Del Rey",
+        "release_date": "2012-01-27",
+        "genre": "Indie Pop",
+        "number_plays": 1200000
+    },
+    {
+        "album_cover": "honeymoon_cover.jpg",
+        "album_name": "Honeymoon",
+        "artist_name": "Lana Del Rey",
+        "release_date": "2015-09-18",
+        "genre": "Indie Pop",
+        "number_plays": 800000
+    },
+    {
+        "album_cover": "discovery_cover.jpg",
+        "album_name": "Discovery",
+        "artist_name": "Daft Punk",
+        "release_date": "2001-03-12",
         "genre": "Electronic",
-        "number_plays": 50000
+        "number_plays": 1500000
     },
     {
-        "album_cover": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/cool-album-cover-image-design-template-62fca565fdcbb25ced8e900c54d61835_screen.jpg?ts=1561530580",
-        "song_title": "Summer Breeze",
-        "artist_name": "Sunset Vibes",
-        "release_date": "2023-06-25",
-        "genre": "Chill",
-        "number_plays": 45000
+        "album_cover": "alive_2007_cover.jpg",
+        "album_name": "ALive 2007",
+        "artist_name": "Daft Punk",
+        "release_date": "2007-11-19",
+        "genre": "Electronic",
+        "number_plays": 900000
     },
     {
-        "album_cover": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/cool-album-cover-image-design-template-62fca565fdcbb25ced8e900c54d61835_screen.jpg?ts=1561530580",
-        "song_title": "Rock Revolution",
-        "artist_name": "The Rebels",
-        "release_date": "2023-08-05",
-        "genre": "Rock",
-        "number_plays": 55000
+        "album_cover": "random_access_memories_cover.jpg",
+        "album_name": "Random Access Memories",
+        "artist_name": "Daft Punk",
+        "release_date": "2013-05-17",
+        "genre": "Electronic",
+        "number_plays": 1300000
     },
     {
-        "album_cover": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/cool-album-cover-image-design-template-62fca565fdcbb25ced8e900c54d61835_screen.jpg?ts=1561530580",
-        "song_title": "Midnight Serenade",
-        "artist_name": "Velvet Shadows",
-        "release_date": "2023-07-02",
-        "genre": "Jazz",
-        "number_plays": 30000
-    },
-    {
-        "album_cover": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/cool-album-cover-image-design-template-62fca565fdcbb25ced8e900c54d61835_screen.jpg?ts=1561530580",
-        "song_title": "Lost in Dreams",
-        "artist_name": "Dreamscape",
-        "release_date": "2023-06-10",
-        "genre": "Ambient",
-        "number_plays": 60000
-    },
-    {
-        "album_cover": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/cool-album-cover-image-design-template-62fca565fdcbb25ced8e900c54d61835_screen.jpg?ts=1561530580",
-        "song_title": "Rising Sun",
-        "artist_name": "Horizon",
-        "release_date": "2023-07-20",
+        "album_cover": "fine_line_cover.jpg",
+        "album_name": "Fine Line",
+        "artist_name": "Harry Styles",
+        "release_date": "2019-12-13",
         "genre": "Pop",
-        "number_plays": 42000
+        "number_plays": 2000000
     },
     {
-        "album_cover": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/cool-album-cover-image-design-template-62fca565fdcbb25ced8e900c54d61835_screen.jpg?ts=1561530580",
-        "song_title": "Funk Fusion",
-        "artist_name": "Groove Masters",
-        "release_date": "2023-08-10",
-        "genre": "Funk",
-        "number_plays": 48000
-    },
-    {
-        "album_cover": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/cool-album-cover-image-design-template-62fca565fdcbb25ced8e900c54d61835_screen.jpg?ts=1561530580",
-        "song_title": "Eternal Love",
-        "artist_name": "Harmony Duo",
-        "release_date": "2023-06-18",
-        "genre": "Ballad",
-        "number_plays": 55000
-    },
-    {
-        "album_cover": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/cool-album-cover-image-design-template-62fca565fdcbb25ced8e900c54d61835_screen.jpg?ts=1561530580",
-        "song_title": "City Lights",
-        "artist_name": "Neon Pulse",
-        "release_date": "2023-07-05",
-        "genre": "Electronic",
-        "number_plays": 38000
-    },
-    {
-        "album_cover": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/cool-album-cover-image-design-template-62fca565fdcbb25ced8e900c54d61835_screen.jpg?ts=1561530580",
-        "song_title": "Wildfire",
-        "artist_name": "Inferno Band",
-        "release_date": "2023-08-02",
-        "genre": "Rock",
-        "number_plays": 62000
-    },
-    {
-        "album_cover": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/cool-album-cover-image-design-template-62fca565fdcbb25ced8e900c54d61835_screen.jpg?ts=1561530580",
-        "song_title": "Dreamscape",
-        "artist_name": "Astral Project",
-        "release_date": "2023-06-15",
-        "genre": "Electronic",
-        "number_plays": 54000
-    },
-    {
-        "album_cover": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/cool-album-cover-image-design-template-62fca565fdcbb25ced8e900c54d61835_screen.jpg?ts=1561530580",
-        "song_title": "Soulful Strum",
-        "artist_name": "Acoustic Aura",
-        "release_date": "2023-07-08",
-        "genre": "Acoustic",
-        "number_plays": 39000
-    },
-    {
-        "album_cover": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/cool-album-cover-image-design-template-62fca565fdcbb25ced8e900c54d61835_screen.jpg?ts=1561530580",
-        "song_title": "Moonlit Melodies",
-        "artist_name": "Starry Nights Ensemble",
-        "release_date": "2023-08-12",
-        "genre": "Classical",
-        "number_plays": 32000
-    },
-    {
-        "album_cover": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/cool-album-cover-image-design-template-62fca565fdcbb25ced8e900c54d61835_screen.jpg?ts=1561530580",
-        "song_title": "Urban Groove",
-        "artist_name": "Street Beats",
-        "release_date": "2023-06-28",
+        "album_cover": "2001_cover.jpg",
+        "album_name": "2001",
+        "artist_name": "Dr. Dre",
+        "release_date": "1999-11-16",
         "genre": "Hip-Hop",
-        "number_plays": 47000
+        "number_plays": 1800000
     },
     {
-        "album_cover": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/cool-album-cover-image-design-template-62fca565fdcbb25ced8e900c54d61835_screen.jpg?ts=1561530580",
-        "song_title": "Vibrant Vibes",
-        "artist_name": "Colorful Harmony",
-        "release_date": "2023-07-23",
-        "genre": "Pop",
-        "number_plays": 58000
+        "album_cover": "am_cover.jpg",
+        "album_name": "AM",
+        "artist_name": "Arctic Monkeys",
+        "release_date": "2013-09-09",
+        "genre": "Indie Rock",
+        "number_plays": 1600000
     },
     {
-        "album_cover": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/cool-album-cover-image-design-template-62fca565fdcbb25ced8e900c54d61835_screen.jpg?ts=1561530580",
-        "song_title": "Mystic Journey",
-        "artist_name": "Enchanted Quest",
-        "release_date": "2023-08-08",
-        "genre": "World",
-        "number_plays": 41000
+        "album_cover": "the_car_cover.jpg",
+        "album_name": "The Car",
+        "artist_name": "Arctic Monkeys",
+        "release_date": "2022-10-21",
+        "genre": "Indie Rock",
+        "number_plays": 500000
     },
     {
-        "album_cover": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/cool-album-cover-image-design-template-62fca565fdcbb25ced8e900c54d61835_screen.jpg?ts=1561530580",
-        "song_title": "Sunrise Serenade",
-        "artist_name": "Morning Glory",
-        "release_date": "2023-06-21",
-        "genre": "Easy Listening",
-        "number_plays": 47000
+        "album_cover": "favourite_worst_nightmare_cover.jpg",
+        "album_name": "Favourite Worst Nightmare",
+        "artist_name": "Arctic Monkeys",
+        "release_date": "2007-04-23",
+        "genre": "Indie Rock",
+        "number_plays": 900000
     },
     {
-        "album_cover": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/cool-album-cover-image-design-template-62fca565fdcbb25ced8e900c54d61835_screen.jpg?ts=1561530580",
-        "song_title": "Electro Fusion",
-        "artist_name": "Voltage Surge",
-        "release_date": "2023-07-12",
+        "album_cover": "astroworld_cover.jpg",
+        "album_name": "Astroworld",
+        "artist_name": "Travis Scott",
+        "release_date": "2018-08-03",
+        "genre": "Hip-Hop",
+        "number_plays": 2200000
+    },
+    {
+        "album_cover": "cybertapes_cover.jpg",
+        "album_name": "Cybertapes",
+        "artist_name": "Cyber",
+        "release_date": "2020-11-20",
         "genre": "Electronic",
-        "number_plays": 54000
+        "number_plays": 700000
     },
     {
-        "album_cover": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/cool-album-cover-image-design-template-62fca565fdcbb25ced8e900c54d61835_screen.jpg?ts=1561530580",
-        "song_title": "Sunny Side Up",
-        "artist_name": "Cheerful Chords",
-        "release_date": "2023-08-15",
+        "album_cover": "electra_heart_deluxe_cover.jpg",
+        "album_name": "Electra Heart (Deluxe)",
+        "artist_name": "Marina and the Diamonds",
+        "release_date": "2012-04-27",
         "genre": "Pop",
-        "number_plays": 61000
+        "number_plays": 850000
     },
     {
-        "album_cover": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/cool-album-cover-image-design-template-62fca565fdcbb25ced8e900c54d61835_screen.jpg?ts=1561530580",
-        "song_title": "Guitar Grooves",
-        "artist_name": "Strings Unleashed",
-        "release_date": "2023-06-30",
-        "genre": "Rock",
-        "number_plays": 55000
-    }
+        "album_cover": "mm_food_cover.jpg",
+        "album_name": "MM..FOOD",
+        "artist_name": "MF DOOM",
+        "release_date": "2004-11-16",
+        "genre": "Hip-Hop",
+        "number_plays": 600000
+    },
+    {
+        "album_cover": "chosen_cover.jpg",
+        "album_name": "Chosen",
+        "artist_name": "Maneskin",
+        "release_date": "2017-12-08",
+        "genre": "Electronic",
+        "number_plays": 300000
+    },
+    {
+        "album_cover": "club_future_nostalgia_cover.jpg",
+        "album_name": "Club Future Nostalgia",
+        "artist_name": "Dua Lipa",
+        "release_date": "2020-08-28",
+        "genre": "Pop",
+        "number_plays": 1100000
+    },
+    {
+        "album_cover": "wiped_out_cover.jpg",
+        "album_name": "Wiped Out!",
+        "artist_name": "The Neighbourhood",
+        "release_date": "2015-10-30",
+        "genre": "Alternative",
+        "number_plays": 750000
+    },
+    {
+        "album_cover": "kid_krow_cover.jpg",
+        "album_name": "Kid Krow",
+        "artist_name": "Conan Gray",
+        "release_date": "2020-03-20",
+        "genre": "Pop",
+        "number_plays": 900000
+    },
+    {
+        "album_cover": "17_cover.jpg",
+        "album_name": "17",
+        "artist_name": "XXXTentacion",
+        "release_date": "2017-08-25",
+        "genre": "Hip-Hop",
+        "number_plays": 1500000
+    },
+
+    {
+        "album_cover": "question_mark_cover.jpg",
+        "album_name": "?",
+        "artist_name": "XXXTentacion",
+        "release_date": "2018-03-16",
+        "genre": "Hip-Hop",
+        "number_plays": 1700000
+    },
+    
+    {
+        "album_cover": "the_bends_cover.jpg",
+        "album_name": "The Bends",
+        "artist_name": "Radiohead",
+        "release_date": "1995-03-13",
+        "genre": "Alternative",
+        "number_plays": 1400000
+    },
+
 ]
